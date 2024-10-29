@@ -1,0 +1,9 @@
+EcoHub/
+├── index.html
+├── css/
+│   └── styles.css
+├── js/
+│   └── script.js
+└── images/
+    ├── noida-city-map.jpg         // Uploaded city map image
+    ├── instagram-icon.png         // Uploaded Instagram icon
